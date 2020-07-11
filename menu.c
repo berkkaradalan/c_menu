@@ -9,7 +9,7 @@ void gotoxy(int x, int y) {
 }
 main()
 {
-	int i,j,y_menu=MENU_LIMIT,konum2;
+	int i,j,y_menu=MENU_LIMIT;
 	int exit=0;
 	char yon,select;
 		/*The menu starts here*/
